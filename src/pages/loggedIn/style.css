@@ -1,0 +1,26 @@
+body {
+    background-color: #292f41;
+    width: 100vw;
+    height: 100vh;
+    overflow: hidden;
+}
+
+p {
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+}
+
+.contrainer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
